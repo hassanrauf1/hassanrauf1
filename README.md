@@ -1,5 +1,5 @@
 #                                Hello, I'm Hassan!👋 
-🔭 I am currently engaged in various Web3 projects, refining my skills and deepening my expertise in blockchain technology.<br>👯 I’m looking to collaborate on innovative blockchain and decentralized application (dApp) projects.<br>🤝 I’m seeking expertise in advanced cryptography, DeFi protocols, and scaling solutions.<br>🌱 I’m currently focused on smart contract security, ZK-rollups, and cross-chain interoperability.<br>💬 Ask me about blockchain development, DeFi, NFTs, and decentralized technologies.<br>
+🔭 I am currently engaged in various Web3 and AI projects, refining my skills and deepening my expertise in blockchain technology.<br>👯 I’m looking to collaborate on innovative blockchain and decentralized application (dApp) projects.<br>🤝 I’m seeking expertise in advanced cryptography, DeFi protocols, and scaling solutions.<br>🌱 I’m currently focused on smart contract security, ZK-rollups, and cross-chain interoperability.<br>💬 Ask me about blockchain development, DeFi, NFTs, and decentralized technologies.<br>
 
 
 ## 🌐 Socials:
