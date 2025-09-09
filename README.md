@@ -1,5 +1,5 @@
 #                                Hello, I'm Hassan!👋 
-🔭 I am currently engaged in various Web3 and AI projects, refining my skills and deepening my expertise in blockchain technology.<br>👯 I’m looking to collaborate on innovative blockchain and decentralized application (dApp) projects.<br>🤝 I’m seeking expertise in advanced cryptography, DeFi protocols, and scaling solutions.<br>🌱 I’m currently focused on smart contract security, ZK-rollups, and cross-chain interoperability.<br>💬 Ask me about blockchain development, DeFi, NFTs, and decentralized technologies.<br>
+🔭 I am currently engaged in various AI and automation projects, building intelligent systems and deepening my expertise in machine learning and LLM technologies.<br>👯 I'm looking to collaborate on innovative AI agent projects and intelligent automation solutions.<br>🤝 I'm seeking expertise in advanced RAG architectures, multi-agent systems, and production AI deployment.<br>🌱 I'm currently focused on LLM fine-tuning, autonomous research agents, and AI-powered workflow automation.<br>💬 Ask me about AI development, LangChain, RAG pipelines, prompt engineering, and blockchain development.<br>
 
 
 ## 🌐 Socials:
